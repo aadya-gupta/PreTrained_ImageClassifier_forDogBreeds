@@ -1,0 +1,76 @@
+Command Line Arguments:
+     dir = uploaded_images/ 
+    arch = vgg 
+ dogfile = dognames.txt
+
+Pet Image Label Dictionary has 4 key-value pairs.
+Below are 4 of them:
+ 1 key:                     Dog_01.jpg  label:                        dog
+ 2 key:                   Gekko_01.jpg  label:                      gekko
+ 3 key:                  Bottle_01.jpg  label:                     bottle
+ 4 key:                     Dog_02.jpg  label:                        dog
+
+     MATCH:
+
+                    Dog_01.jpg: 
+Real:                        dog   Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+
+ NOT A MATCH:
+
+                  Gekko_01.jpg: 
+Real:                      gekko   Classifier:  green lizard, lacerta viridis
+
+                 Bottle_01.jpg: 
+Real:                     bottle   Classifier:                     hair spray
+
+                    Dog_02.jpg: 
+Real:                        dog   Classifier:                     hartebeest
+
+# Total Images 4 # Matches: 1 # NOT Matches: 3
+
+     MATCH:
+
+                    Dog_01.jpg: 
+Real:                        dog   Classifier: german shepherd, german shepherd dog, german police dog, alsatian  
+PetLabelDog: 1  ClassLabelDog: 1
+
+ NOT A MATCH:
+
+                  Gekko_01.jpg: 
+Real:                      gekko   Classifier:  green lizard, lacerta viridis  
+PetLabelDog: 0  ClassLabelDog: 0
+
+                 Bottle_01.jpg: 
+Real:                     bottle   Classifier:                     hair spray  
+PetLabelDog: 0  ClassLabelDog: 0
+
+                    Dog_02.jpg: 
+Real:                        dog   Classifier:                     hartebeest  
+PetLabelDog: 1  ClassLabelDog: 0
+
+# Total Images 4 # Matches: 1 # NOT Matches: 3
+
+ ** Statistics from calculates_results_stats() function:
+N Images:  4  N Dog Images:  2  N NotDog Images:  2 
+Pct Corr dog:  50.0 Pct Corr NOTdog: 100.0  Pct Corr Breed:  50.0
+
+ ** Check Statistics - calculated from this function as a check:
+N Images:  4  N Dog Images:  2  N NotDog Images:  2 
+Pct Corr dog:  50.0 Pct Corr NOTdog: 100.0  Pct Corr Breed:  50.0
+The model being used is - vgg
+The overall counts are as below- 
+Number of images - 4
+Number of dog images - 2
+Number of not dog images - 2
+Percentage calculations: 
+
+The pct_match- 25.0
+The pct_correct_dogs- 50.0
+The pct_correct_notdogs- 100.0
+The pct_correct_breed- 50.0
+There are incorrectly classfieid dog images - 
+Image label - dog
+Classifier label - hartebeest
+
+
+** Total Elapsed Runtime: 0:0:5
