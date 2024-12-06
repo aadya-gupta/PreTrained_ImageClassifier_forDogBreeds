@@ -9,7 +9,7 @@ The AWS AI & ML Scholarship program, in collaboration with Udacity, is an AI/ML-
 As part of the program we have to build two projects. 
 A few days ago I completed the very first project which was to use a pre-trained image classifier for dog-breeds. 
 
-<img src="IMG_3770.png" alt="Project Completion Badge" width="300" height="300">
+<img src="IMG_3773.png" alt="Project Completion Badge" width="300" height="300">
 
 Here I have shared the exact project we had to build along with the project's description, our tasks and important notes. 
 
