@@ -2,15 +2,14 @@
 
 Recently I was accepted into the AWS AI/ML Scholarship Program. 
 
-![6A61E48D-F60B-4BC6-B22D-6BF239CC716E_1_201_a](https://github.com/user-attachments/assets/ff88b702-eb48-419f-83f2-05dec012a7b2)
-![9D6307C6-FFE5-4F14-81BA-18422750B8E2_1_201_a](https://github.com/user-attachments/assets/3da443c9-d97c-498d-8616-d7acafc5e489)
+<img src="IMG_3380.png" alt="Recepient Badge" width="450" height="300"> <img src="IMG_3379.png" alt="Congrats email" width="300" height="300">
 
 The AWS AI & ML Scholarship program, in collaboration with Udacity, is an AI/ML-focused scholarship program providing 2,500 Udacity nanodegree scholarships annually, as well as a mentorship program, to students. Find out more about the program [here](https://aws.amazon.com/machine-learning/scholarship/).
 
 As part of the program we have to build two projects. 
 A few days ago I completed the very first project which was to use a pre-trained image classifier for dog-breeds. 
 
-![53EC8C07-D0ED-4424-9489-D0738AD14865_1_105_c](https://github.com/user-attachments/assets/5b879b04-e16e-4049-ae61-edee9a7c4224)
+<img src="IMG_3770.png" alt="Project Completion Badge" width="300" height="300">
 
 Here I have shared the exact project we had to build along with the project's description, our tasks and important notes. 
 
