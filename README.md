@@ -1,1 +1,1 @@
-# Pre-Trained Image Classifier for Dog Breed
+# Pre-Trained Image Classifier for Dog Breeds
